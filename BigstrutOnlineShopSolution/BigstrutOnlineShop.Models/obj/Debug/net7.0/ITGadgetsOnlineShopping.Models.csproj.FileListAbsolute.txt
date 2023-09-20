@@ -1,0 +1,12 @@
+C:\Users\UNIK\BlazorProjects\FullStackWebAppWithBlazor\ITGadgetsOnlineShoppingSolution\ITGadgetsOnlineShopping.Models\bin\Debug\net7.0\ITGadgetsOnlineShopping.Models.deps.json
+C:\Users\UNIK\BlazorProjects\FullStackWebAppWithBlazor\ITGadgetsOnlineShoppingSolution\ITGadgetsOnlineShopping.Models\bin\Debug\net7.0\ITGadgetsOnlineShopping.Models.dll
+C:\Users\UNIK\BlazorProjects\FullStackWebAppWithBlazor\ITGadgetsOnlineShoppingSolution\ITGadgetsOnlineShopping.Models\bin\Debug\net7.0\ITGadgetsOnlineShopping.Models.pdb
+C:\Users\UNIK\BlazorProjects\FullStackWebAppWithBlazor\ITGadgetsOnlineShoppingSolution\ITGadgetsOnlineShopping.Models\obj\Debug\net7.0\ITGadgetsOnlineShopping.Models.csproj.AssemblyReference.cache
+C:\Users\UNIK\BlazorProjects\FullStackWebAppWithBlazor\ITGadgetsOnlineShoppingSolution\ITGadgetsOnlineShopping.Models\obj\Debug\net7.0\ITGadgetsOnlineShopping.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\BlazorProjects\FullStackWebAppWithBlazor\ITGadgetsOnlineShoppingSolution\ITGadgetsOnlineShopping.Models\obj\Debug\net7.0\ITGadgetsOnlineShopping.Models.AssemblyInfoInputs.cache
+C:\Users\UNIK\BlazorProjects\FullStackWebAppWithBlazor\ITGadgetsOnlineShoppingSolution\ITGadgetsOnlineShopping.Models\obj\Debug\net7.0\ITGadgetsOnlineShopping.Models.AssemblyInfo.cs
+C:\Users\UNIK\BlazorProjects\FullStackWebAppWithBlazor\ITGadgetsOnlineShoppingSolution\ITGadgetsOnlineShopping.Models\obj\Debug\net7.0\ITGadgetsOnlineShopping.Models.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\BlazorProjects\FullStackWebAppWithBlazor\ITGadgetsOnlineShoppingSolution\ITGadgetsOnlineShopping.Models\obj\Debug\net7.0\ITGadgetsOnlineShopping.Models.dll
+C:\Users\UNIK\BlazorProjects\FullStackWebAppWithBlazor\ITGadgetsOnlineShoppingSolution\ITGadgetsOnlineShopping.Models\obj\Debug\net7.0\refint\ITGadgetsOnlineShopping.Models.dll
+C:\Users\UNIK\BlazorProjects\FullStackWebAppWithBlazor\ITGadgetsOnlineShoppingSolution\ITGadgetsOnlineShopping.Models\obj\Debug\net7.0\ITGadgetsOnlineShopping.Models.pdb
+C:\Users\UNIK\BlazorProjects\FullStackWebAppWithBlazor\ITGadgetsOnlineShoppingSolution\ITGadgetsOnlineShopping.Models\obj\Debug\net7.0\ref\ITGadgetsOnlineShopping.Models.dll

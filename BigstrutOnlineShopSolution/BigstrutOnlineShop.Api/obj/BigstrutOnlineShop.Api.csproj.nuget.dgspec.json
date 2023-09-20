@@ -1,0 +1,233 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.Api\\BigstrutOnlineShop.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.Api\\BigstrutOnlineShop.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.Api\\BigstrutOnlineShop.Api.csproj",
+        "projectName": "BigstrutOnlineShop.Api",
+        "projectPath": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.Api\\BigstrutOnlineShop.Api.csproj",
+        "packagesPath": "C:\\Users\\UNIK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\UNIK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.Models\\BigstrutOnlineShop.Models.csproj": {
+                "projectPath": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.Models\\BigstrutOnlineShop.Models.csproj"
+              },
+              "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\BigstrutOnlineShop.web.csproj": {
+                "projectPath": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\BigstrutOnlineShop.web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.Models\\BigstrutOnlineShop.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.Models\\BigstrutOnlineShop.Models.csproj",
+        "projectName": "BigstrutOnlineShop.Models",
+        "projectPath": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.Models\\BigstrutOnlineShop.Models.csproj",
+        "packagesPath": "C:\\Users\\UNIK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\UNIK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\BigstrutOnlineShop.web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\BigstrutOnlineShop.web.csproj",
+        "projectName": "BigstrutOnlineShop.web",
+        "projectPath": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\BigstrutOnlineShop.web.csproj",
+        "packagesPath": "C:\\Users\\UNIK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\UNIK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.Models\\BigstrutOnlineShop.Models.csproj": {
+                "projectPath": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.Models\\BigstrutOnlineShop.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[7.0.10, 7.0.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

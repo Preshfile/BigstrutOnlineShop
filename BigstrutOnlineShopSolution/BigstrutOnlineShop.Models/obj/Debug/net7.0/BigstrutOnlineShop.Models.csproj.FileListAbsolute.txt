@@ -1,0 +1,11 @@
+C:\Users\UNIK\BlazorProjects\BigstrutOnlineShopSolution\BigstrutOnlineShop.Models\bin\Debug\net7.0\BigstrutOnlineShop.Models.deps.json
+C:\Users\UNIK\BlazorProjects\BigstrutOnlineShopSolution\BigstrutOnlineShop.Models\bin\Debug\net7.0\BigstrutOnlineShop.Models.dll
+C:\Users\UNIK\BlazorProjects\BigstrutOnlineShopSolution\BigstrutOnlineShop.Models\bin\Debug\net7.0\BigstrutOnlineShop.Models.pdb
+C:\Users\UNIK\BlazorProjects\BigstrutOnlineShopSolution\BigstrutOnlineShop.Models\obj\Debug\net7.0\BigstrutOnlineShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\BlazorProjects\BigstrutOnlineShopSolution\BigstrutOnlineShop.Models\obj\Debug\net7.0\BigstrutOnlineShop.Models.AssemblyInfoInputs.cache
+C:\Users\UNIK\BlazorProjects\BigstrutOnlineShopSolution\BigstrutOnlineShop.Models\obj\Debug\net7.0\BigstrutOnlineShop.Models.AssemblyInfo.cs
+C:\Users\UNIK\BlazorProjects\BigstrutOnlineShopSolution\BigstrutOnlineShop.Models\obj\Debug\net7.0\BigstrutOnlineShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\BlazorProjects\BigstrutOnlineShopSolution\BigstrutOnlineShop.Models\obj\Debug\net7.0\BigstrutOnlineShop.Models.dll
+C:\Users\UNIK\BlazorProjects\BigstrutOnlineShopSolution\BigstrutOnlineShop.Models\obj\Debug\net7.0\refint\BigstrutOnlineShop.Models.dll
+C:\Users\UNIK\BlazorProjects\BigstrutOnlineShopSolution\BigstrutOnlineShop.Models\obj\Debug\net7.0\BigstrutOnlineShop.Models.pdb
+C:\Users\UNIK\BlazorProjects\BigstrutOnlineShopSolution\BigstrutOnlineShop.Models\obj\Debug\net7.0\ref\BigstrutOnlineShop.Models.dll

@@ -1,0 +1,197 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\obj\\Debug\\net7.0\\build-gz\\GABVCVUl.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BigstrutOnlineShop.web.styles.css",
+      "PackagePath": "staticwebassets\\BigstrutOnlineShop.web.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Accessories\\Accessories1.png",
+      "PackagePath": "staticwebassets\\Images\\Accessories\\Accessories1.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Accessories\\Accessories2.png",
+      "PackagePath": "staticwebassets\\Images\\Accessories\\Accessories2.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Accessories\\Accessories3.png",
+      "PackagePath": "staticwebassets\\Images\\Accessories\\Accessories3.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Accessories\\Accessories4.png",
+      "PackagePath": "staticwebassets\\Images\\Accessories\\Accessories4.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Accessories\\Accessories5.png",
+      "PackagePath": "staticwebassets\\Images\\Accessories\\Accessories5.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Accessories\\Accessories6.png",
+      "PackagePath": "staticwebassets\\Images\\Accessories\\Accessories6.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Computer\\Computer1.png",
+      "PackagePath": "staticwebassets\\Images\\Computer\\Computer1.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Computer\\Computer2.png",
+      "PackagePath": "staticwebassets\\Images\\Computer\\Computer2.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Computer\\Computer3.png",
+      "PackagePath": "staticwebassets\\Images\\Computer\\Computer3.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Computer\\Computer4.png",
+      "PackagePath": "staticwebassets\\Images\\Computer\\Computer4.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Computer\\Computer5.png",
+      "PackagePath": "staticwebassets\\Images\\Computer\\Computer5.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Computer\\Computer66.png",
+      "PackagePath": "staticwebassets\\Images\\Computer\\Computer66.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Furniture\\Furniture1.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture1.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Furniture\\Furniture2.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture2.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Furniture\\Furniture3.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture3.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Furniture\\Furniture4.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture4.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Furniture\\Furniture6.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture6.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Furniture\\Furniture7.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture7.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Shoes\\Shoes1.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes1.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Shoes\\Shoes2.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes2.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Shoes\\Shoes3.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes3.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Shoes\\Shoes5.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes5.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Shoes\\Shoes6.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes6.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\Images\\Shoes\\shoes4.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\shoes4.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\js\\ShoppingCartFunctions.js",
+      "PackagePath": "staticwebassets\\js\\ShoppingCartFunctions.js"
+    },
+    {
+      "Id": "C:\\Users\\UNIK\\BlazorProjects\\BigstrutOnlineShopSolution\\BigstrutOnlineShop.web\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BigstrutOnlineShop.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BigstrutOnlineShop.web.props",
+      "PackagePath": "build\\BigstrutOnlineShop.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BigstrutOnlineShop.web.props",
+      "PackagePath": "buildMultiTargeting\\BigstrutOnlineShop.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BigstrutOnlineShop.web.props",
+      "PackagePath": "buildTransitive\\BigstrutOnlineShop.web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
