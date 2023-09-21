@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BigstrutOnlineShop.web
+build_property.RootNamespace = BigstrutOnlineShop.web
+build_property.ProjectDir = c:\Users\UNIK\BigstrutOnlineShop\BigstrutOnlineShop.web\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\UNIK\BigstrutOnlineShop\BigstrutOnlineShop.web
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/UNIK/BigstrutOnlineShop/BigstrutOnlineShop.web/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/UNIK/BigstrutOnlineShop/BigstrutOnlineShop.web/Pages/Checkout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/UNIK/BigstrutOnlineShop/BigstrutOnlineShop.web/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/UNIK/BigstrutOnlineShop/BigstrutOnlineShop.web/Pages/DisplayError.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheUVycm9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/UNIK/BigstrutOnlineShop/BigstrutOnlineShop.web/Pages/DisplayProducts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheVByb2R1Y3RzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/UNIK/BigstrutOnlineShop/BigstrutOnlineShop.web/Pages/Product.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/UNIK/BigstrutOnlineShop/BigstrutOnlineShop.web/Pages/ProductDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/UNIK/BigstrutOnlineShop/BigstrutOnlineShop.web/Shared/CartMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENhcnRNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/UNIK/BigstrutOnlineShop/BigstrutOnlineShop.web/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/UNIK/BigstrutOnlineShop/BigstrutOnlineShop.web/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/UNIK/BigstrutOnlineShop/BigstrutOnlineShop.web/Pages/DisplayRoller.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheVJvbGxlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-3djk82wqpc
+
+[c:/Users/UNIK/BigstrutOnlineShop/BigstrutOnlineShop.web/Pages/ShoppingCart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmdDYXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-7kb0tzrweg
+
+[c:/Users/UNIK/BigstrutOnlineShop/BigstrutOnlineShop.web/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6yb27hfxge
+
+[c:/Users/UNIK/BigstrutOnlineShop/BigstrutOnlineShop.web/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-n61n7shyzf
